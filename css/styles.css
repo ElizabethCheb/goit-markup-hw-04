@@ -336,7 +336,7 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 24px;
+  gap: 16px;
 }
 .social_list_item {
   display: flex;
@@ -346,6 +346,15 @@ button {
   height: 40px;
   border-radius: 50%;
   background-color: #4d5ae5;
+}
+.use_futter {
+  width: 100%;
+  height: 100%;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .size_social_round {
   display: flex;
@@ -554,6 +563,7 @@ button {
 }
 .social_media_text {
   display: flex;
+  align-items: baseline;
   color: var(--cloud, #f4f4fd);
   margin: 0 0 16px 0;
   padding: 0;
@@ -573,7 +583,7 @@ button {
   display: flex;
 }
 .text_futter {
-  color: var(--cloud, #f4f4fd);
+  color: var(--cloud, #ffffff);
   margin: 0;
   padding: 0;
   max-width: 264px;
@@ -581,7 +591,7 @@ button {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 }
