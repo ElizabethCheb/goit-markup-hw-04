@@ -576,6 +576,9 @@ button {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 }
+.text_dark_futter {
+  align-items: baseline;
+}
 .futter_first_content {
   margin-right: 120px;
 }
