@@ -564,7 +564,7 @@ button {
 .social_media_text {
   display: flex;
   align-items: baseline;
-  color: var(--cloud, #f4f4fd);
+  color: var(--cloud, #fff);
   margin: 0 0 16px 0;
   padding: 0;
   max-width: 264px;
@@ -572,7 +572,7 @@ button {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 }
