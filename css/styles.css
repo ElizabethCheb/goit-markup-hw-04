@@ -574,6 +574,9 @@ button {
 .use_futter_:hover {
   background-color: #31d0aa;
 }
+.svg_fut_social {
+  fill: #f4f4fd;
+}
 .social_media_text {
   display: flex;
   align-items: baseline;
