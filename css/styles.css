@@ -346,6 +346,12 @@ button {
   align-items: center;
   gap: 24px;
 }
+.social_list_strick_futer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
 .social_list_item {
   display: flex;
   justify-content: center;
